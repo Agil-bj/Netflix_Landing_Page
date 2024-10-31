@@ -301,7 +301,7 @@ body {
 .card {
     background: linear-gradient(to bottom right, #01123f, #280124);
     padding: 20px;
-    width: 270px;
+    width: 260px;
     height: 310px;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
